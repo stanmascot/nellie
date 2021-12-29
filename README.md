@@ -1,0 +1,2 @@
+# nellie
+devops training
